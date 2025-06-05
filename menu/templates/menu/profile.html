@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Your Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+    }
+
+    .wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+      max-width: 1000px;
+      padding: 40px 20px;
+    }
+
+    .profile-card {
+      background-color: white;
+      padding: 30px 50px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      width: 100%;
+    }
+
+    h2 {
+      color: #333;
+    }
+
+    p {
+      font-size: 16px;
+      color: #555;
+    }
+
+    a, button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    a:hover, button:hover {
+      background-color: #0056b3;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 12px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #007bff;
+      color: white;
+    }
+
+    .reorder-btn {
+      background-color: #28a745;
+      padding: 8px 12px;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .reorder-btn:hover {
+      background-color: #218838;
+    }
+
+    .scroll-container {
+      max-height: 400px;
+      overflow-y: auto;
+      margin-top: 20px;
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="profile-card">
+      <h2>Welcome, {{ user.username }}!</h2>
+      <p><strong>First name:</strong> {{ user.first_name }}</p>
+      <p><strong>Last name:</strong> {{ user.last_name }}</p>
+      <p><strong>Email:</strong> {{ user.email }}</p>
+
+      <form method="post" action="{% url 'logout' %}">
+        {% csrf_token %}
+        <button type="submit">Logout</button>
+      </form>
+
+      <a href="{% url 'landing' %}">Home</a>
+
+      <h2>Your Order History</h2>
+
+      {% if orders %}
+      <div class="scroll-container">
+        <table>
+          <tr>
+            <th>Order ID</th>
+            <th>Pizza</th>
+            <th>Size</th>
+            <th>Toppings</th>
+            <th>Drinks</th>
+            <th>Date</th>
+            <th>Re-order</th>
+          </tr>
+          {% for order in orders %}
+          <tr>
+            <td>{{ order.id }}</td>
+            <td>{{ order.pizza.name }}</td>
+            <td>{{ order.size.name }}</td>
+            <td>
+              {% for topping in order.topping.all %}
+                {{ topping.name }}{% if not forloop.last %}, {% endif %}
+              {% endfor %}
+            </td>
+            <td>
+              {% for drink in order.drink.all %}
+                {{ drink.name }} ({{ drink.size }}){% if not forloop.last %}, {% endif %}
+              {% endfor %}
+            </td>
+            <td>{{ order.created_at|date:"Y-m-d" }}</td>
+            <td>
+              <form method="post" action="{% url 'reorder' %}">
+                {% csrf_token %}
+                <input type="hidden" name="order_id" value="{{ order.id }}">
+                <button type="submit" class="reorder-btn">Re-order</button>
+              </form>
+            </td>
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+      {% else %}
+        <p>No orders yet.</p>
+      {% endif %}
+    </div>
+  </div>
+</body>
+</html>

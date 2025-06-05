@@ -1,0 +1,21 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Order Success</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <div class="centered-container">
+        <div class="box" style="max-width: 500px;">
+            <h2>✅ Thank you for your order!</h2>
+            <p>Your pizza is being prepared.</p>
+            <div class="button-group">
+                <a href="{% url 'landing' %}">Return to Home Page</a>
+                <a href="{% url 'profile' %}">View Order History</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

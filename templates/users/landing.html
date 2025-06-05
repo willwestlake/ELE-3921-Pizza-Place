@@ -1,0 +1,21 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome!</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <div class="centered-container">
+        <div class="box">
+            <h1>Welcome, {{ user.first_name|default:user.username }}!</h1>
+            <p>You’ve successfully logged in.</p>
+            <div class="button-group">
+                <a href="{% url 'menu' %}">View Menu</a>
+                <a href="{% url 'profile' %}">Profile</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

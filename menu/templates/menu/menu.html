@@ -1,0 +1,86 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pizza Menu</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <style>
+        .form-wrapper {
+            max-width: 500px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <h2>Pizza Menu</h2>
+
+    <div class="form-wrapper" style="max-width: 1000px; margin: 0 auto 0 705px;">
+        <form method="post" action="{% url 'add_to_cart' %}">
+            {% csrf_token %}
+
+            <div class="form-group">
+                <label for="pizza"><strong>Choose a pizza:</strong></label>
+                <select name="pizza_id" id="pizza" onchange="filterToppingsBySize()">
+                    {% for pizza in pizzas %}
+                        <option value="{{ pizza.id }}" data-size="{{ pizza.size.name }}">
+                            {{ pizza.name }} ({{ pizza.size.name }}) - {{ pizza.price }}kr
+                        </option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <p class="section-title">Select toppings:</p>
+                {% for topping in toppings %}
+                    <div class="checkbox-line topping-option" data-size="{{ topping.size.name }}">
+                        <input type="checkbox" name="toppings" value="{{ topping.id }}" id="topping_{{ topping.id }}">
+                        <label for="topping_{{ topping.id }}">
+                            {{ topping.name }} ({{ topping.size.name }}) - {{ topping.price }}kr
+                        </label>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="form-group">
+                <p class="section-title">Select drinks:</p>
+                {% for drink in drinks %}
+                    <div class="checkbox-line">
+                        <input type="checkbox" name="drinks" value="{{ drink.id }}" id="drink_{{ drink.id }}">
+                        <label for="drink_{{ drink.id }}">
+                            {{ drink.name }} ({{ drink.size }}) - {{ drink.price }}kr
+                        </label>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <button type="submit">Add to Cart</button>
+        </form>
+    </div>
+
+    <div class="button-group" style="margin-top: 30px;">
+        <a href="{% url 'cart' %}" style="width: 70%; max-width: 250px;">View Cart</a>
+        <a href="{% url 'landing' %}" style="width: 70%; max-width: 250px;">Home</a>
+    </div>
+
+    <script>
+        function filterToppingsBySize() {
+            const selectedPizza = document.getElementById('pizza');
+            const selectedSize = selectedPizza.options[selectedPizza.selectedIndex].getAttribute('data-size');
+            const toppingDivs = document.querySelectorAll('.topping-option');
+
+            toppingDivs.forEach(div => {
+                if (div.getAttribute('data-size') === selectedSize) {
+                    div.style.display = 'flex';
+                } else {
+                    div.style.display = 'none';
+                    const checkbox = div.querySelector('input[type="checkbox"]');
+                    if (checkbox) checkbox.checked = false;
+                }
+            });
+        }
+
+        window.onload = filterToppingsBySize;
+    </script>
+</body>
+</html>
