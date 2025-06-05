@@ -1,0 +1,3345 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2025-06-05T02:58:31.908Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "4",
+    "object_repr": "e",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2025-06-05T02:11:55.404Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "30",
+    "object_repr": "Kjøttboller - 45",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2025-06-05T02:11:49.934Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "29",
+    "object_repr": "Kjøttboller - 35",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2025-06-05T02:11:37.273Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "28",
+    "object_repr": "Kjøttboller - 25",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2025-06-05T02:11:02.019Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "27",
+    "object_repr": "Bacon Bites - 40",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2025-06-05T02:10:56.402Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "26",
+    "object_repr": "Bacon Bites - 30",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2025-06-05T02:10:46.053Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "25",
+    "object_repr": "Bacon Bites - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2025-06-05T02:09:14.795Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "24",
+    "object_repr": "Mushrooms - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2025-06-05T02:09:09.373Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "Mushrooms - 15",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2025-06-05T02:09:06.346Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "22",
+    "object_repr": "Mushrooms - 10",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2025-06-05T02:09:00.960Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "21",
+    "object_repr": "Olives - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2025-06-05T02:08:54.367Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "20",
+    "object_repr": "Olives - 15",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2025-06-05T02:08:49.808Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "19",
+    "object_repr": "Olives - 10",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2025-06-05T02:07:13.071Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Olive - 10.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2025-06-05T02:06:55.471Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Mushrooms - 10.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2025-06-05T02:06:55.471Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "Mushrooms - 20.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2025-06-05T02:06:55.471Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Mushrooms - 30.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2025-06-05T02:02:57.178Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "18",
+    "object_repr": "Jalapeño 🌶️ - 25",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2025-06-05T02:02:51.743Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "17",
+    "object_repr": "Jalapeño 🌶️ - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2025-06-05T02:02:43.808Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "Jalapeño 🌶️ - 15",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2025-06-05T02:02:02.936Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Mushrooms - 30",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2025-06-05T02:01:57.900Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "Mushrooms - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2025-06-05T02:01:44.943Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Mushrooms - 10.00",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2025-06-05T02:01:35.637Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Mushrooms - 10.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2025-06-05T02:01:22.613Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Pommes Frites - 10.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2025-06-05T02:01:20.000Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Pommes Frites - 15.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2025-06-05T02:01:14.330Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "Pommes Frites - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2025-06-05T02:00:59.871Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Pommes - 15",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2025-06-05T02:00:46.232Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Pommes - 10",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2025-06-05T02:00:20.583Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Løk - 30",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2025-06-05T02:00:11.862Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Løk - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2025-06-05T02:00:06.286Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Løk - 10",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2025-06-05T01:59:02.959Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Ekstra Ost - 30",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2025-06-05T01:58:53.876Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Ekstra Ost - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2025-06-05T01:58:45.939Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Ekstra Ost - 15",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2025-06-05T01:57:40.498Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Olive - 15.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2025-06-05T01:57:40.498Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Olive - 20.00",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2025-06-05T01:56:32.416Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "18",
+    "object_repr": "Vegetarian Pizza (40cm) - 209.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2025-06-05T01:56:29.732Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "17",
+    "object_repr": "Vegetarian Pizza (30cm) - 149.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2025-06-05T01:56:26.529Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "16",
+    "object_repr": "Vegetarian Pizza (20cm) - 79.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2025-06-05T01:56:20.397Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "15",
+    "object_repr": "Hawaii Pizza (40cm) - 209.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2025-06-05T01:56:17.585Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "14",
+    "object_repr": "Hawaii Pizza (30cm) - 149.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2025-06-05T01:56:14.441Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "13",
+    "object_repr": "Hawaii Pizza (20cm) - 79.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2025-06-05T01:56:07.528Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "Pepperoni Pizza (40cm) - 199.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2025-06-05T01:56:02.312Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "Pepperoni Pizza (30cm) - 139.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2025-06-05T01:55:58.964Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Pepperoni Pizza (20cm) - 79.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2025-06-05T01:55:50.387Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Margherita Pizza (40cm) - 189.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2025-06-05T01:55:47.004Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Margherita Pizza (30cm) - 119.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2025-06-05T01:55:42.770Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Margherita Pizza (20cm) - 59.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2025-06-05T01:55:18.135Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Margherita (40cm) - 189.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2025-06-05T01:55:10.754Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Margherita Pizza (40cm) - 189.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2025-06-05T01:54:46.488Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "21",
+    "object_repr": "Blackout Pizza 🌶️ (40cm) - 209",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2025-06-05T01:54:36.121Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "20",
+    "object_repr": "Blackout Pizza 🌶️ (30cm) - 149",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2025-06-05T01:54:28.543Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "19",
+    "object_repr": "Blackout Pizza 🌶️ (20cm) - 79",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2025-06-05T01:52:52.088Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "18",
+    "object_repr": "Vegetarian (40cm) - 209",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2025-06-05T01:52:42.909Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "17",
+    "object_repr": "Vegetarian (30cm) - 149",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2025-06-05T01:52:34.621Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "16",
+    "object_repr": "Vegetarian (20cm) - 79",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2025-06-05T01:52:07.761Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "15",
+    "object_repr": "Hawaii (40cm) - 209",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-06-05T01:51:57.632Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "14",
+    "object_repr": "Hawaii (30cm) - 149",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-06-05T01:51:45.645Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "13",
+    "object_repr": "Hawaii (20cm) - 79",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-06-05T01:51:20.177Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "Pepperoni (40cm) - 199",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-06-05T01:51:06.134Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "Pepperoni (30cm) - 139",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-06-05T01:50:58.644Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "Pepperoni (20cm) - 79",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-06-05T01:50:45.142Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "Margherita (40cm) - 189",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-06-05T01:50:36.060Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Margherita (30cm) - 119",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-06-05T01:50:26.414Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Margherita (20cm) - 59",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-06-05T01:49:59.341Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Døner Pizza (40cm) - 259",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-06-05T01:48:20.812Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Døner Pizza (30cm) - 159",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-06-05T01:47:54.888Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Døner Pizza (20cm) - 84.00",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-06-05T01:46:56.497Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Kebab Pizza (40cm) - 259.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-06-05T01:46:48.441Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Kebab Pizza (20cm) - 89.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-06-05T01:46:41.628Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Kebab Pizza (20cm) - 84.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-06-05T01:46:33.823Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Kebab Pizza (30cm) - 159.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-06-05T01:46:12.834Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Kebab Pizza (20cm) - 89.00",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Price\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-06-05T01:45:40.761Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "25",
+    "object_repr": "Urge - 49 - 1.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-06-05T01:45:29.872Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "24",
+    "object_repr": "Sprite - 49 - 1.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-06-05T01:45:15.394Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "23",
+    "object_repr": "Fanta Exotic - 49 - 1.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-06-05T01:45:07.761Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "22",
+    "object_repr": "Fanta - 49 - 1.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-06-05T01:44:59.740Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "21",
+    "object_repr": "Coca Cola Zero - 49 - 1.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-06-05T01:44:49.327Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "20",
+    "object_repr": "Coca Cola - 49 - 1.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-06-05T01:44:17.621Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "19",
+    "object_repr": "Kuli Eple - 19 - 0.2L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-06-05T01:44:01.833Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "18",
+    "object_repr": "Kuli Applesin - 19 - 0.2L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-06-05T01:43:42.317Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "17",
+    "object_repr": "Burn Energy Drink - 45 - 0.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-06-05T01:43:27.359Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "16",
+    "object_repr": "Monster Energy - 45 - 0.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-06-05T01:42:35.564Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "15",
+    "object_repr": "Urge - 35 - 0.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-06-05T01:42:24.072Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "14",
+    "object_repr": "Sprite - 35 - 0.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-06-05T01:42:08.425Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "13",
+    "object_repr": "Fanta Exotic - 35 - 0.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-06-05T01:41:57.395Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Fanta - 35 - 0.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-06-05T01:41:39.011Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Coca Cola Zero - 35 - 0.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-06-05T01:41:01.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Pepsi - 15.00 - Small",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-06-05T01:41:01.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Sprite - 15.00 - small",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-06-05T01:41:01.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Coke - 15.00 - small",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-06-05T01:41:01.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Water - 9.00 - small",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-06-05T01:41:01.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Solo - 15.00 - small",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-06-05T01:41:01.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Pepsi - 15.00 - Large",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-06-05T01:41:01.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Coke - 30.00 - Large",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-06-05T01:41:01.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Sprite - 30.00 - large",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-06-05T01:41:01.665Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Solo - 30.00 - Large",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-06-05T01:40:42.840Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Coca Cola - 35 - 0.5L",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-06-04T18:10:55.946Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Water - 9.00 - small",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-06-04T18:10:44.498Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Solo - 30 - Large",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-06-04T18:09:56.993Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Sprite - 30 - large",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-06-04T18:09:39.841Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Coke - 30 - Large",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-06-04T18:09:25.410Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Pepsi - 15 - Large",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-06-04T18:09:14.157Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Solo - 15 - small",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-06-04T18:09:01.385Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Water - 9.00 - small",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-06-04T18:08:39.818Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Coke - 15 - small",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-06-04T18:08:28.271Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Sprite - 15 - small",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-06-02T13:53:39.074Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Pepsi - 15 - Small",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-06-02T13:35:06.789Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Mushrooms - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-06-02T13:32:18.951Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Olive - 20",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-06-02T13:32:04.690Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Olive - 15",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-06-02T13:07:27.445Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Olive - 10",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-06-02T13:04:35.462Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Kebab Pizza (40cm) - 245",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-06-02T13:04:25.313Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Kebab Pizza (30cm) - 154",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-06-02T13:03:41.992Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Kebab Pizza (20cm) - 82",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-06-02T12:58:04.128Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "40cm",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-06-02T12:58:00.325Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "30cm",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-06-02T12:57:53.713Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "20cm",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-06-02T12:57:46.658Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "20 cm",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-06-02T12:57:46.658Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "30 cm",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-06-02T12:57:46.658Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "40 cm",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-06-02T12:57:37.993Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "40 cm",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-06-02T12:57:33.303Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "30 cm",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-06-02T12:57:27.903Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "20 cm",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add drink",
+    "content_type": 10,
+    "codename": "add_drink"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change drink",
+    "content_type": 10,
+    "codename": "change_drink"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete drink",
+    "content_type": 10,
+    "codename": "delete_drink"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view drink",
+    "content_type": 10,
+    "codename": "view_drink"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add order",
+    "content_type": 11,
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change order",
+    "content_type": 11,
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete order",
+    "content_type": 11,
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view order",
+    "content_type": 11,
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add pizza",
+    "content_type": 9,
+    "codename": "add_pizza"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change pizza",
+    "content_type": 9,
+    "codename": "change_pizza"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete pizza",
+    "content_type": 9,
+    "codename": "delete_pizza"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view pizza",
+    "content_type": 9,
+    "codename": "view_pizza"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add size",
+    "content_type": 7,
+    "codename": "add_size"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change size",
+    "content_type": 7,
+    "codename": "change_size"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete size",
+    "content_type": 7,
+    "codename": "delete_size"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view size",
+    "content_type": 7,
+    "codename": "view_size"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add topping",
+    "content_type": 8,
+    "codename": "add_topping"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change topping",
+    "content_type": 8,
+    "codename": "change_topping"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete topping",
+    "content_type": 8,
+    "codename": "delete_topping"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view topping",
+    "content_type": 8,
+    "codename": "view_topping"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$TV5osnu4mF5unm7DBOgWBs$N2cmjCrBneJyNmMUpUvqQxSgprjgsI5H8C/XG35CmlY=",
+    "last_login": "2025-06-05T06:34:51.086Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-06-02T12:54:17.926Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$A18fu2yajeRXtx6swIiJnZ$WafVokr1JVSbfF5w1OVdz1VWwD/MmZtWyZm9RxY96TA=",
+    "last_login": "2025-06-05T06:31:21.009Z",
+    "is_superuser": false,
+    "username": "test",
+    "first_name": "test",
+    "last_name": "test",
+    "email": "test@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-02T13:08:49.275Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$OMO9dNkTLwuDHNsQ0ZFPWc$zu6rJzJ3i1mV15uAVxFi8ra36DXnjL8YolYzL68601w=",
+    "last_login": "2025-06-04T13:18:46.699Z",
+    "is_superuser": false,
+    "username": "william",
+    "first_name": "",
+    "last_name": "",
+    "email": "william@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-04T13:17:46.228Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$L0I3KQFnhHAZp1tQfaFhwz$Mo8qMoqH7pfwDgLwrXy24ZJbHxUSc8B6MtvjkllglD8=",
+    "last_login": "2025-06-05T02:57:54.342Z",
+    "is_superuser": false,
+    "username": "test2",
+    "first_name": "",
+    "last_name": "",
+    "email": "test2@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-05T02:48:01.147Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$eHIZbE9kAnCAbYrq9sbjNy$/ZtGY2uWx49wx4r9Zg7l5ay0eaPLvEWr5ZrZpCa0CTc=",
+    "last_login": "2025-06-05T03:37:03.778Z",
+    "is_superuser": false,
+    "username": "FinalTest",
+    "first_name": "",
+    "last_name": "",
+    "email": "FinalTest@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-05T03:36:49.641Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$vuVwuxGAW90zSd40NUWlbS$DKf1ioB0g1G/hIbBamJVpQiRkN26DmkumD091CvL3mw=",
+    "last_login": "2025-06-05T06:34:27.994Z",
+    "is_superuser": false,
+    "username": "PizzaEnjoyer",
+    "first_name": "",
+    "last_name": "",
+    "email": "willwestlake1@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-05T06:34:20.637Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "menu",
+    "model": "size"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "menu",
+    "model": "topping"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "menu",
+    "model": "pizza"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "menu",
+    "model": "drink"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "menu",
+    "model": "order"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "a4mci3f2pecvgq2bjm9kircs3778e8rm",
+  "fields": {
+    "session_data": ".eJxVjEEOgjAUBe_StWlqS0th6Z4TGNM8_m8FNTSBsjLeXUhY6PbNvHmLgLUMYV3iHEYWrdDi9Lv1oGecdsAPTPcsKU9lHnu5K_Kgi-wyx9flcP8CA5Zhe7vaWmcMKwX29myN9gpVIhiA2Bkij157bojJKW5ispqTpgTnq6rGFiXMRbTX2-cLJXE7lQ:1uM7at:IGNd9H4ZnZhd1UNfjCoj0uekPI-9m6Dz6Wt3zmHlaW0",
+    "expire_date": "2025-06-16T16:00:59.339Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4bsdbqhmjq0tlpv7uqo3nlv98xbkz7sp",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hCmEASX7j0DmWFGqRpISrsy3l2bdNFu_3vvf1TCZS5p6TKlkdVFgTrtN8L8kroCfmJ9NJ1bnaeR9KrojXZ9ayzv6-YeDgr28q8zMkGEwXuQ7MQIOgKyYvEeIQRgw2Q8MXmy5-Ag8kAZMHi0BNYY9f0B_dU4Mw:1uMpEZ:1Uamom-ITcnh5_A7SWq-_fttH_Y61mS7Mkrcrdw1NbI",
+    "expire_date": "2025-06-18T14:36:51.100Z"
+  }
+},
+{
+  "model": "menu.size",
+  "pk": 4,
+  "fields": {
+    "name": "20cm"
+  }
+},
+{
+  "model": "menu.size",
+  "pk": 5,
+  "fields": {
+    "name": "30cm"
+  }
+},
+{
+  "model": "menu.size",
+  "pk": 6,
+  "fields": {
+    "name": "40cm"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 5,
+  "fields": {
+    "name": "Ekstra Ost",
+    "size": 4,
+    "price": "15.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 6,
+  "fields": {
+    "name": "Ekstra Ost",
+    "size": 5,
+    "price": "20.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 7,
+  "fields": {
+    "name": "Ekstra Ost",
+    "size": 6,
+    "price": "30.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 8,
+  "fields": {
+    "name": "Løk",
+    "size": 4,
+    "price": "10.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 9,
+  "fields": {
+    "name": "Løk",
+    "size": 5,
+    "price": "20.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 10,
+  "fields": {
+    "name": "Løk",
+    "size": 6,
+    "price": "30.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 11,
+  "fields": {
+    "name": "Pommes Frites",
+    "size": 4,
+    "price": "10.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 12,
+  "fields": {
+    "name": "Pommes Frites",
+    "size": 5,
+    "price": "15.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 13,
+  "fields": {
+    "name": "Pommes Frites",
+    "size": 6,
+    "price": "20.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 16,
+  "fields": {
+    "name": "Jalapeño 🌶️",
+    "size": 4,
+    "price": "15.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 17,
+  "fields": {
+    "name": "Jalapeño 🌶️",
+    "size": 5,
+    "price": "20.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 18,
+  "fields": {
+    "name": "Jalapeño 🌶️",
+    "size": 6,
+    "price": "25.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 19,
+  "fields": {
+    "name": "Olives",
+    "size": 4,
+    "price": "10.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 20,
+  "fields": {
+    "name": "Olives",
+    "size": 5,
+    "price": "15.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 21,
+  "fields": {
+    "name": "Olives",
+    "size": 6,
+    "price": "20.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 22,
+  "fields": {
+    "name": "Mushrooms",
+    "size": 4,
+    "price": "10.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 23,
+  "fields": {
+    "name": "Mushrooms",
+    "size": 5,
+    "price": "15.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 24,
+  "fields": {
+    "name": "Mushrooms",
+    "size": 6,
+    "price": "20.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 25,
+  "fields": {
+    "name": "Bacon Bites",
+    "size": 4,
+    "price": "20.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 26,
+  "fields": {
+    "name": "Bacon Bites",
+    "size": 5,
+    "price": "30.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 27,
+  "fields": {
+    "name": "Bacon Bites",
+    "size": 6,
+    "price": "40.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 28,
+  "fields": {
+    "name": "Kjøttboller",
+    "size": 4,
+    "price": "25.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 29,
+  "fields": {
+    "name": "Kjøttboller",
+    "size": 5,
+    "price": "35.00"
+  }
+},
+{
+  "model": "menu.topping",
+  "pk": 30,
+  "fields": {
+    "name": "Kjøttboller",
+    "size": 6,
+    "price": "45.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 1,
+  "fields": {
+    "name": "Kebab Pizza",
+    "size": 4,
+    "price": "89.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 2,
+  "fields": {
+    "name": "Kebab Pizza",
+    "size": 5,
+    "price": "159.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 3,
+  "fields": {
+    "name": "Kebab Pizza",
+    "size": 6,
+    "price": "259.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 4,
+  "fields": {
+    "name": "Døner Pizza",
+    "size": 4,
+    "price": "84.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 5,
+  "fields": {
+    "name": "Døner Pizza",
+    "size": 5,
+    "price": "159.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 6,
+  "fields": {
+    "name": "Døner Pizza",
+    "size": 6,
+    "price": "259.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 7,
+  "fields": {
+    "name": "Margherita Pizza",
+    "size": 4,
+    "price": "59.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 8,
+  "fields": {
+    "name": "Margherita Pizza",
+    "size": 5,
+    "price": "119.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 9,
+  "fields": {
+    "name": "Margherita Pizza",
+    "size": 6,
+    "price": "189.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 10,
+  "fields": {
+    "name": "Pepperoni Pizza",
+    "size": 4,
+    "price": "79.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 11,
+  "fields": {
+    "name": "Pepperoni Pizza",
+    "size": 5,
+    "price": "139.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 12,
+  "fields": {
+    "name": "Pepperoni Pizza",
+    "size": 6,
+    "price": "199.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 13,
+  "fields": {
+    "name": "Hawaii Pizza",
+    "size": 4,
+    "price": "79.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 14,
+  "fields": {
+    "name": "Hawaii Pizza",
+    "size": 5,
+    "price": "149.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 15,
+  "fields": {
+    "name": "Hawaii Pizza",
+    "size": 6,
+    "price": "209.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 16,
+  "fields": {
+    "name": "Vegetarian Pizza",
+    "size": 4,
+    "price": "79.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 17,
+  "fields": {
+    "name": "Vegetarian Pizza",
+    "size": 5,
+    "price": "149.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 18,
+  "fields": {
+    "name": "Vegetarian Pizza",
+    "size": 6,
+    "price": "209.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 19,
+  "fields": {
+    "name": "Blackout Pizza 🌶️",
+    "size": 4,
+    "price": "79.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 20,
+  "fields": {
+    "name": "Blackout Pizza 🌶️",
+    "size": 5,
+    "price": "149.00"
+  }
+},
+{
+  "model": "menu.pizza",
+  "pk": 21,
+  "fields": {
+    "name": "Blackout Pizza 🌶️",
+    "size": 6,
+    "price": "209.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 10,
+  "fields": {
+    "name": "Coca Cola",
+    "size": "0.5L",
+    "price": "35.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 11,
+  "fields": {
+    "name": "Coca Cola Zero",
+    "size": "0.5L",
+    "price": "35.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 12,
+  "fields": {
+    "name": "Fanta",
+    "size": "0.5L",
+    "price": "35.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 13,
+  "fields": {
+    "name": "Fanta Exotic",
+    "size": "0.5L",
+    "price": "35.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 14,
+  "fields": {
+    "name": "Sprite",
+    "size": "0.5L",
+    "price": "35.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 15,
+  "fields": {
+    "name": "Urge",
+    "size": "0.5L",
+    "price": "35.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 16,
+  "fields": {
+    "name": "Monster Energy",
+    "size": "0.5L",
+    "price": "45.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 17,
+  "fields": {
+    "name": "Burn Energy Drink",
+    "size": "0.5L",
+    "price": "45.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 18,
+  "fields": {
+    "name": "Kuli Applesin",
+    "size": "0.2L",
+    "price": "19.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 19,
+  "fields": {
+    "name": "Kuli Eple",
+    "size": "0.2L",
+    "price": "19.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 20,
+  "fields": {
+    "name": "Coca Cola",
+    "size": "1.5L",
+    "price": "49.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 21,
+  "fields": {
+    "name": "Coca Cola Zero",
+    "size": "1.5L",
+    "price": "49.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 22,
+  "fields": {
+    "name": "Fanta",
+    "size": "1.5L",
+    "price": "49.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 23,
+  "fields": {
+    "name": "Fanta Exotic",
+    "size": "1.5L",
+    "price": "49.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 24,
+  "fields": {
+    "name": "Sprite",
+    "size": "1.5L",
+    "price": "49.00"
+  }
+},
+{
+  "model": "menu.drink",
+  "pk": 25,
+  "fields": {
+    "name": "Urge",
+    "size": "1.5L",
+    "price": "49.00"
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "pizza": 3,
+    "size": 6,
+    "created_at": "2025-06-02",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 2,
+  "fields": {
+    "user": 1,
+    "pizza": 2,
+    "size": 5,
+    "created_at": "2025-06-02",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 3,
+  "fields": {
+    "user": 1,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-02",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 4,
+  "fields": {
+    "user": 1,
+    "pizza": 2,
+    "size": 5,
+    "created_at": "2025-06-02",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 5,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-02",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 6,
+  "fields": {
+    "user": 2,
+    "pizza": 3,
+    "size": 6,
+    "created_at": "2025-06-02",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 7,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-02",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 8,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 9,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 10,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 11,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 12,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 13,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 14,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 15,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 16,
+  "fields": {
+    "user": 2,
+    "pizza": 2,
+    "size": 5,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 17,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 18,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 19,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 20,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-04",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 22,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      8
+    ],
+    "drink": [
+      10
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 23,
+  "fields": {
+    "user": 2,
+    "pizza": 3,
+    "size": 6,
+    "created_at": "2025-06-05",
+    "topping": [
+      13,
+      24
+    ],
+    "drink": [
+      11
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 24,
+  "fields": {
+    "user": 2,
+    "pizza": 10,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      28
+    ],
+    "drink": [
+      16
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 25,
+  "fields": {
+    "user": 2,
+    "pizza": 10,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      28
+    ],
+    "drink": [
+      16
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 26,
+  "fields": {
+    "user": 2,
+    "pizza": 10,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      28
+    ],
+    "drink": [
+      16
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 27,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      25
+    ],
+    "drink": [
+      11
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 28,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      16,
+      19
+    ],
+    "drink": [
+      13,
+      14,
+      16
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 29,
+  "fields": {
+    "user": 2,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      5,
+      8,
+      11,
+      16,
+      19,
+      22,
+      25,
+      28
+    ],
+    "drink": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 30,
+  "fields": {
+    "user": 5,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      8,
+      25
+    ],
+    "drink": [
+      11,
+      13
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 31,
+  "fields": {
+    "user": 6,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      5,
+      19
+    ],
+    "drink": [
+      13
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 32,
+  "fields": {
+    "user": 6,
+    "pizza": 10,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      16,
+      19
+    ],
+    "drink": [
+      13
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 33,
+  "fields": {
+    "user": 2,
+    "pizza": 5,
+    "size": 5,
+    "created_at": "2025-06-05",
+    "topping": [
+      17
+    ],
+    "drink": [
+      10,
+      24
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 34,
+  "fields": {
+    "user": 2,
+    "pizza": 20,
+    "size": 5,
+    "created_at": "2025-06-05",
+    "topping": [
+      6,
+      12
+    ],
+    "drink": [
+      22
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 35,
+  "fields": {
+    "user": 2,
+    "pizza": 10,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      28
+    ],
+    "drink": [
+      16
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 36,
+  "fields": {
+    "user": 2,
+    "pizza": 5,
+    "size": 5,
+    "created_at": "2025-06-05",
+    "topping": [
+      9
+    ],
+    "drink": [
+      13
+    ]
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 37,
+  "fields": {
+    "user": 2,
+    "pizza": 18,
+    "size": 6,
+    "created_at": "2025-06-05",
+    "topping": [],
+    "drink": []
+  }
+},
+{
+  "model": "menu.order",
+  "pk": 38,
+  "fields": {
+    "user": 7,
+    "pizza": 1,
+    "size": 4,
+    "created_at": "2025-06-05",
+    "topping": [
+      22
+    ],
+    "drink": [
+      11
+    ]
+  }
+}
+]
